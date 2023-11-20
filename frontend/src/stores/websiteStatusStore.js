@@ -87,7 +87,7 @@ export const useWebsiteStatusStore = defineStore({
         align: "center",
         sortable: false,
         key: "botsStatuses.ScreamingFrogSEOSpider.status",
-        slotName: "Screaming Frog"
+        slotName: "ScreamingFrogSEOSpider"
       },
       {
         title: "cognitiveSEO",
@@ -134,7 +134,6 @@ export const useWebsiteStatusStore = defineStore({
             }
           })
           .then(res => {
-            // console.log('data', res.data);
             this.lastUpdated = res.data.lastUpdated;
 
             const updatedSites = Array.isArray(res.data.sites) ? res.data.sites.map(site => {
@@ -208,5 +207,26 @@ export const useWebsiteStatusStore = defineStore({
     formatSlotName(key) {
       return key.replace(/-./g, match => match.charAt(1).toUpperCase());
     }
+  },
+  getters: {
+    flattenedSites() {
+      return this.sites.map(site => {
+        let flattenedSite = { ...site };
+  
+        // new botsStatuses object
+        flattenedSite.botsStatuses = {};
+  
+        // loop over each bot status
+        for (let botName in site.botsStatuses) {
+          let flattenedBotName = botName.replace(/\s+/g, '');
+          flattenedSite.botsStatuses[flattenedBotName] = {
+            status: site.botsStatuses[botName].status
+          };
+        }
+  
+        return flattenedSite;
+      });
+    }
+
   }
 });

@@ -135,13 +135,13 @@ const chartOptions = computed(() => ({
     toolbar: {
       show: true,
       tools: {
-        pan: false,
-        zoom: false,
-        selection: false,
+        pan: true,
+        zoom: true,
+        selection: true,
         download: false,
-        zoomin: false,
-        zoomout: false,
-        reset: false,
+        zoomin: true,
+        zoomout: true,
+        reset: true,
       },
     },
   },
@@ -305,18 +305,30 @@ const chartOptions = computed(() => ({
     };
 
     const downloadChart = async () => {
-      const elementToSave = document.querySelector(".chart-container");
-      if (elementToSave) {
-        const canvas = await html2canvas(elementToSave);
-        let link = document.createElement("a");
-        let sanitizedFilename = chartTitle.value.replace(/[^a-z0-9]/gi, " ");
+  const elementToSave = document.querySelector(".chart-container");
+  const toolbar = document.querySelector(".apexcharts-toolbar");
 
-        link.download = `Originality.AI - ${sanitizedFilename}.png`;
+  if (elementToSave) {
+    // hide while saving
+    if (toolbar) {
+      toolbar.style.display = 'none';
+    }
 
-        link.href = canvas.toDataURL("image/png");
-        link.click();
-      }
-    };
+    const canvas = await html2canvas(elementToSave);
+    let link = document.createElement("a");
+    let sanitizedFilename = chartTitle.value.replace(/[^a-z0-9]/gi, " ");
+
+    link.download = `Originality.AI - ${sanitizedFilename}.png`;
+
+    link.href = canvas.toDataURL("image/png");
+    link.click();
+
+    // show after saving
+    if (toolbar) {
+      toolbar.style.display = '';
+    }
+  }
+};
 
     const series = ref([]);
 

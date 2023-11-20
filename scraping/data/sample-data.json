@@ -1,0 +1,252 @@
+[
+  {
+    "position": 1,
+    "domain": "youtube.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 2,
+    "domain": "facebook.com",
+    "category": "Social Networks"
+  },
+  {
+    "position": 3,
+    "domain": "wikipedia.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 4,
+    "domain": "google.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 5,
+    "domain": "instagram.com",
+    "category": "Social Networks"
+  },
+  {
+    "position": 6,
+    "domain": "amazon.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 7,
+    "domain": "pinterest.com",
+    "category": "Social Networks"
+  },
+  {
+    "position": 8,
+    "domain": "tiktok.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 9,
+    "domain": "reddit.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 10,
+    "domain": "linkedin.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 11,
+    "domain": "twitter.com",
+    "category": "Social Networks"
+  },
+  {
+    "position": 12,
+    "domain": "quora.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 13,
+    "domain": "fandom.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 14,
+    "domain": "etsy.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 15,
+    "domain": "apple.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 16,
+    "domain": "yelp.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 17,
+    "domain": "yahoo.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 18,
+    "domain": "ebay.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 19,
+    "domain": "wordpress.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 20,
+    "domain": "indeed.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 21,
+    "domain": "nytimes.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 22,
+    "domain": "nih.gov",
+    "category": "Education & Research"
+  },
+  {
+    "position": 23,
+    "domain": "walmart.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 24,
+    "domain": "imdb.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 25,
+    "domain": "tripadvisor.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 26,
+    "domain": "britannica.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 27,
+    "domain": "medium.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 28,
+    "domain": "forbes.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 29,
+    "domain": "mapquest.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 30,
+    "domain": "theguardian.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 31,
+    "domain": "shutterstock.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 32,
+    "domain": "microsoft.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 33,
+    "domain": "foursquare.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 34,
+    "domain": "aliexpress.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 35,
+    "domain": "wikihow.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 36,
+    "domain": "cnn.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 37,
+    "domain": "merriam-webster.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 38,
+    "domain": "sporcle.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 39,
+    "domain": "ask.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 40,
+    "domain": "mayoclinic.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 41,
+    "domain": "quizlet.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 42,
+    "domain": "cdc.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 43,
+    "domain": "webmd.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 44,
+    "domain": "bloomberg.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 45,
+    "domain": "ikea.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 46,
+    "domain": "weather.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 47,
+    "domain": "genius.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 48,
+    "domain": "businessinsider.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 49,
+    "domain": "bestbuy.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 50,
+    "domain": "wayfair.com",
+    "category": "E-Commerce"
+  }
+]

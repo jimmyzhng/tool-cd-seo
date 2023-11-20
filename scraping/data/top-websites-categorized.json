@@ -1,0 +1,3794 @@
+[
+  { "position": 1, "domain": "youtube.com", "category": "Entertainment" },
+  { "position": 2, "domain": "facebook.com", "category": "Social Networks" },
+  {
+    "position": 3,
+    "domain": "wikipedia.org",
+    "category": "Education & Research"
+  },
+  { "position": 4, "domain": "google.com", "category": "Utilities & Tools" },
+  { "position": 5, "domain": "instagram.com", "category": "Social Networks" },
+  { "position": 6, "domain": "pinterest.com", "category": "Social Networks" },
+  { "position": 7, "domain": "tiktok.com", "category": "Entertainment" },
+  { "position": 8, "domain": "amazon.com", "category": "E-Commerce" },
+  {
+    "position": 9,
+    "domain": "linkedin.com",
+    "category": "Business & Employment"
+  },
+  { "position": 10, "domain": "twitter.com", "category": "Social Networks" },
+  { "position": 11, "domain": "reddit.com", "category": "News & Media" },
+  { "position": 12, "domain": "quora.com", "category": "Education & Research" },
+  { "position": 13, "domain": "fandom.com", "category": "Entertainment" },
+  { "position": 14, "domain": "etsy.com", "category": "E-Commerce" },
+  { "position": 15, "domain": "yahoo.com", "category": "News & Media" },
+  { "position": 16, "domain": "yelp.com", "category": "Personal & Lifestyle" },
+  { "position": 17, "domain": "ebay.com", "category": "E-Commerce" },
+  {
+    "position": 18,
+    "domain": "apple.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 19,
+    "domain": "wordpress.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 20,
+    "domain": "indeed.com",
+    "category": "Business & Employment"
+  },
+  { "position": 21, "domain": "nytimes.com", "category": "News & Media" },
+  { "position": 22, "domain": "imdb.com", "category": "Entertainment" },
+  { "position": 23, "domain": "walmart.com", "category": "E-Commerce" },
+  { "position": 24, "domain": "nih.gov", "category": "Government & NGO" },
+  {
+    "position": 25,
+    "domain": "tripadvisor.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 26, "domain": "mapquest.com", "category": "Utilities & Tools" },
+  {
+    "position": 27,
+    "domain": "britannica.com",
+    "category": "Education & Research"
+  },
+  { "position": 28, "domain": "medium.com", "category": "News & Media" },
+  { "position": 29, "domain": "theguardian.com", "category": "News & Media" },
+  { "position": 30, "domain": "shutterstock.com", "category": "E-Commerce" },
+  { "position": 31, "domain": "forbes.com", "category": "News & Media" },
+  { "position": 32, "domain": "aliexpress.com", "category": "E-Commerce" },
+  {
+    "position": 33,
+    "domain": "microsoft.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 34,
+    "domain": "researchgate.net",
+    "category": "Education & Research"
+  },
+  { "position": 35, "domain": "bbc.com", "category": "News & Media" },
+  {
+    "position": 36,
+    "domain": "wikihow.com",
+    "category": "Education & Research"
+  },
+  { "position": 37, "domain": "cnn.com", "category": "News & Media" },
+  { "position": 38, "domain": "target.com", "category": "E-Commerce" },
+  {
+    "position": 39,
+    "domain": "cambridge.org",
+    "category": "Education & Research"
+  },
+  { "position": 40, "domain": "spotify.com", "category": "Entertainment" },
+  {
+    "position": 41,
+    "domain": "foursquare.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 42,
+    "domain": "wiktionary.org",
+    "category": "Education & Research"
+  },
+  { "position": 43, "domain": "reverso.net", "category": "Utilities & Tools" },
+  {
+    "position": 44,
+    "domain": "sciencedirect.com",
+    "category": "Education & Research"
+  },
+  { "position": 45, "domain": "soundcloud.com", "category": "Entertainment" },
+  { "position": 46, "domain": "dailymotion.com", "category": "Entertainment" },
+  { "position": 47, "domain": "indiatimes.com", "category": "News & Media" },
+  { "position": 48, "domain": "usatoday.com", "category": "News & Media" },
+  {
+    "position": 49,
+    "domain": "healthline.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 50,
+    "domain": "collinsdictionary.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 51,
+    "domain": "merriam-webster.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 52,
+    "domain": "stackexchange.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 53,
+    "domain": "booking.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 54,
+    "domain": "alamy.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 55,
+    "domain": "istockphoto.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 56,
+    "domain": "scribd.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 57,
+    "domain": "yellowpages.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 58,
+    "domain": "webmd.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 59,
+    "domain": "wikiwand.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 60,
+    "domain": "adobe.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 61,
+    "domain": "trip.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 62,
+    "domain": "businessinsider.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 63,
+    "domain": "dailymail.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 64,
+    "domain": "dictionary.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 65,
+    "domain": "flickr.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 66,
+    "domain": "github.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 67,
+    "domain": "mayoclinic.org",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 68,
+    "domain": "thefreedictionary.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 69,
+    "domain": "reuters.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 70,
+    "domain": "washingtonpost.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 71,
+    "domain": "dreamstime.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 72,
+    "domain": "usnews.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 73,
+    "domain": "zoominfo.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 74,
+    "domain": "screenrant.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 75,
+    "domain": "homedepot.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 76,
+    "domain": "goodreads.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 77,
+    "domain": "medicalnewstoday.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 78,
+    "domain": "ign.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 79,
+    "domain": "npr.org",
+    "category": "News & Media"
+  },
+  {
+    "position": 80,
+    "domain": "cbsnews.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 81,
+    "domain": "google.co.uk",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 82,
+    "domain": "cnet.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 83,
+    "domain": "clevelandclinic.org",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 84,
+    "domain": "bbc.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 85,
+    "domain": "jstor.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 86,
+    "domain": "freepik.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 87,
+    "domain": "bab.la",
+    "category": "Education & Research"
+  },
+  {
+    "position": 88,
+    "domain": "genius.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 89,
+    "domain": "goodhousekeeping.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 90,
+    "domain": "wordreference.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 91,
+    "domain": "study.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 92,
+    "domain": "moovitapp.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 93,
+    "domain": "amazon.co.uk",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 94,
+    "domain": "sportskeeda.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 95,
+    "domain": "yahoo.co.jp",
+    "category": "Other"
+  },
+  {
+    "position": 96,
+    "domain": "redbubble.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 97,
+    "domain": "tumblr.com",
+    "category": "Social Networks"
+  },
+  {
+    "position": 98,
+    "domain": "wikimedia.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 99,
+    "domain": "deviantart.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 100,
+    "domain": "independent.co.uk",
+    "category": "News & Media"
+  },
+  { "position": 101, "domain": "europa.eu", "category": "Government & NGO" },
+  {
+    "position": 102,
+    "domain": "wiley.com",
+    "category": "Education & Research"
+  },
+  { "position": 103, "domain": "latimes.com", "category": "News & Media" },
+  {
+    "position": 104,
+    "domain": "rottentomatoes.com",
+    "category": "Entertainment"
+  },
+  { "position": 105, "domain": "issuu.com", "category": "Utilities & Tools" },
+  {
+    "position": 106,
+    "domain": "springer.com",
+    "category": "Education & Research"
+  },
+  { "position": 107, "domain": "waze.com", "category": "Utilities & Tools" },
+  {
+    "position": 108,
+    "domain": "restaurantguru.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 109,
+    "domain": "mapcarta.com",
+    "category": "Utilities & Tools"
+  },
+  { "position": 110, "domain": "insider.com", "category": "News & Media" },
+  {
+    "position": 111,
+    "domain": "byjus.com",
+    "category": "Education & Research"
+  },
+  { "position": 112, "domain": "hotels.com", "category": "E-Commerce" },
+  { "position": 113, "domain": "alibaba.com", "category": "E-Commerce" },
+  { "position": 114, "domain": "flipkart.com", "category": "E-Commerce" },
+  { "position": 115, "domain": "msn.com", "category": "News & Media" },
+  {
+    "position": 116,
+    "domain": "glassdoor.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 117,
+    "domain": "yourdictionary.com",
+    "category": "Education & Research"
+  },
+  { "position": 118, "domain": "ca.gov", "category": "Government & NGO" },
+  { "position": 119, "domain": "cdc.gov", "category": "Government & NGO" },
+  {
+    "position": 120,
+    "domain": "vocabulary.com",
+    "category": "Education & Research"
+  },
+  { "position": 121, "domain": "google.de", "category": "Other" },
+  { "position": 122, "domain": "google.ca", "category": "Other" },
+  {
+    "position": 123,
+    "domain": "weebly.com",
+    "category": "Technology & Software"
+  },
+  { "position": 124, "domain": "investopedia.com", "category": "Financial" },
+  {
+    "position": 125,
+    "domain": "slideshare.net",
+    "category": "Education & Research"
+  },
+  { "position": 126, "domain": "amazon.de", "category": "E-Commerce" },
+  { "position": 127, "domain": "netflix.com", "category": "Entertainment" },
+  {
+    "position": 128,
+    "domain": "harvard.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 129,
+    "domain": "niche.com",
+    "category": "Education & Research"
+  },
+  { "position": 130, "domain": "google.co.in", "category": "Other" },
+  { "position": 131, "domain": "cosmopolitan.com", "category": "News & Media" },
+  {
+    "position": 132,
+    "domain": "zillow.com",
+    "category": "Business & Employment"
+  },
+  { "position": 133, "domain": "lowes.com", "category": "E-Commerce" },
+  { "position": 134, "domain": "nbcnews.com", "category": "News & Media" },
+  { "position": 135, "domain": "discogs.com", "category": "Entertainment" },
+  { "position": 136, "domain": "gamespot.com", "category": "Entertainment" },
+  { "position": 137, "domain": "indiamart.com", "category": "E-Commerce" },
+  { "position": 138, "domain": "ebay.co.uk", "category": "E-Commerce" },
+  {
+    "position": 139,
+    "domain": "stackoverflow.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 140,
+    "domain": "hindustantimes.com",
+    "category": "News & Media"
+  },
+  { "position": 141, "domain": "bloomberg.com", "category": "News & Media" },
+  { "position": 142, "domain": "nypost.com", "category": "News & Media" },
+  {
+    "position": 143,
+    "domain": "nature.com",
+    "category": "Education & Research"
+  },
+  { "position": 144, "domain": "cnbc.com", "category": "News & Media" },
+  { "position": 145, "domain": "people.com", "category": "News & Media" },
+  { "position": 146, "domain": "tvtropes.org", "category": "Entertainment" },
+  { "position": 147, "domain": "pixabay.com", "category": "Utilities & Tools" },
+  {
+    "position": 148,
+    "domain": "makeuseof.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 149,
+    "domain": "business.site",
+    "category": "Business & Employment"
+  },
+  { "position": 150, "domain": "oup.com", "category": "Education & Research" },
+  {
+    "position": 151,
+    "domain": "amazon.in",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 152,
+    "domain": "expedia.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 153,
+    "domain": "www.nhs.uk",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 154,
+    "domain": "company-information.service.gov.uk",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 155,
+    "domain": "gamerant.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 156,
+    "domain": "go.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 157,
+    "domain": "bandcamp.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 158,
+    "domain": "bestbuy.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 159,
+    "domain": "costco.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 160,
+    "domain": "quizlet.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 161,
+    "domain": "studocu.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 162,
+    "domain": "vimeo.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 163,
+    "domain": "pngwing.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 164,
+    "domain": "medlineplus.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 165,
+    "domain": "academia.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 166,
+    "domain": "steamcommunity.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 167,
+    "domain": "rome2rio.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 168,
+    "domain": "verywellhealth.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 169,
+    "domain": "www.gov.uk",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 170,
+    "domain": "urbandictionary.com",
+    "category": "Other"
+  },
+  {
+    "position": 171,
+    "domain": "ikea.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 172,
+    "domain": "espn.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 173,
+    "domain": "time.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 174,
+    "domain": "elpais.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 175,
+    "domain": "wordhippo.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 176,
+    "domain": "as.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 177,
+    "domain": "depositphotos.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 178,
+    "domain": "toppr.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 179,
+    "domain": "justdial.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 180,
+    "domain": "ziprecruiter.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 181,
+    "domain": "squarespace.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 182,
+    "domain": "indianexpress.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 183,
+    "domain": "gettyimages.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 184,
+    "domain": "thesaurus.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 185,
+    "domain": "pxfuel.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 186,
+    "domain": "mirror.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 187,
+    "domain": "bing.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 188,
+    "domain": "realtor.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 189,
+    "domain": "salary.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 190,
+    "domain": "lefigaro.fr",
+    "category": "News & Media"
+  },
+  {
+    "position": 191,
+    "domain": "pbs.org",
+    "category": "Entertainment"
+  },
+  {
+    "position": 192,
+    "domain": "buzzfeed.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 193,
+    "domain": "timeout.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 194,
+    "domain": "123rf.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 195,
+    "domain": "collider.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 196,
+    "domain": "tvguide.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 197,
+    "domain": "bbb.org",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 198,
+    "domain": "crunchbase.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 199,
+    "domain": "last.fm",
+    "category": "Entertainment"
+  },
+  {
+    "position": 200,
+    "domain": "cbr.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 201,
+    "domain": "oxfordlearnersdictionaries.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 202,
+    "domain": "telegraph.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 203,
+    "domain": "wattpad.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 204,
+    "domain": "digitaltrends.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 205,
+    "domain": "agoda.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 206,
+    "domain": "cbc.ca",
+    "category": "News & Media"
+  },
+  {
+    "position": 207,
+    "domain": "variety.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 208,
+    "domain": "ubereats.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 209,
+    "domain": "today.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 210,
+    "domain": "popsugar.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 211,
+    "domain": "rakuten.co.jp",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 212,
+    "domain": "thespruce.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 213,
+    "domain": "steampowered.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 214,
+    "domain": "apnews.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 215,
+    "domain": "trustpilot.com",
+    "category": "Other"
+  },
+  {
+    "position": 216,
+    "domain": "wsj.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 217,
+    "domain": "biomedcentral.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 218,
+    "domain": "uol.com.br",
+    "category": "News & Media"
+  },
+  {
+    "position": 219,
+    "domain": "barnesandnoble.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 220,
+    "domain": "amazon.fr",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 221,
+    "domain": "frontiersin.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 222,
+    "domain": "apkpure.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 223,
+    "domain": "marca.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 224,
+    "domain": "google.fr",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 225,
+    "domain": "prezi.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 226,
+    "domain": "geeksforgeeks.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 227,
+    "domain": "groupon.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 228,
+    "domain": "globo.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 229,
+    "domain": "lavanguardia.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 230,
+    "domain": "si.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 231,
+    "domain": "thegamer.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 232,
+    "domain": "elle.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 233,
+    "domain": "economictimes.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 234,
+    "domain": "glosbe.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 235,
+    "domain": "wayfair.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 236,
+    "domain": "ny.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 237,
+    "domain": "craigslist.org",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 238,
+    "domain": "chegg.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 239,
+    "domain": "pcmag.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 240,
+    "domain": "thesun.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 241,
+    "domain": "canva.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 242,
+    "domain": "vecteezy.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 243,
+    "domain": "tenor.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 244,
+    "domain": "express.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 245,
+    "domain": "themoviedb.org",
+    "category": "Entertainment"
+  },
+  {
+    "position": 246,
+    "domain": "theverge.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 247,
+    "domain": "patch.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 248,
+    "domain": "infobae.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 249,
+    "domain": "allrecipes.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 250,
+    "domain": "thoughtco.com",
+    "category": "Education & Research"
+  },
+  { "position": 251, "domain": "newsweek.com", "category": "News & Media" },
+  { "position": 252, "domain": "ameblo.jp", "category": "Social Networks" },
+  { "position": 253, "domain": "rollingstone.com", "category": "News & Media" },
+  { "position": 254, "domain": "usda.gov", "category": "Government & NGO" },
+  { "position": 255, "domain": "com.be", "category": "Other" },
+  {
+    "position": 256,
+    "domain": "superpages.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 257,
+    "domain": "wired.com",
+    "category": "Technology & Software"
+  },
+  { "position": 258, "domain": "nextdoor.com", "category": "Social Networks" },
+  {
+    "position": 259,
+    "domain": "cornell.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 260,
+    "domain": "hollywoodreporter.com",
+    "category": "News & Media"
+  },
+  { "position": 261, "domain": "line.me", "category": "Social Networks" },
+  { "position": 262, "domain": "abc.net.au", "category": "News & Media" },
+  { "position": 263, "domain": "poshmark.com", "category": "E-Commerce" },
+  { "position": 264, "domain": "canada.ca", "category": "Government & NGO" },
+  { "position": 265, "domain": "ew.com", "category": "Entertainment" },
+  { "position": 266, "domain": "dnb.com", "category": "Business & Employment" },
+  {
+    "position": 267,
+    "domain": "msdmanuals.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 268, "domain": "deezer.com", "category": "Entertainment" },
+  { "position": 269, "domain": "parade.com", "category": "Entertainment" },
+  { "position": 270, "domain": "kayak.com", "category": "Utilities & Tools" },
+  {
+    "position": 271,
+    "domain": "google.com.au",
+    "category": "Utilities & Tools"
+  },
+  { "position": 272, "domain": "ouest-france.fr", "category": "News & Media" },
+  {
+    "position": 273,
+    "domain": "samsung.com",
+    "category": "Technology & Software"
+  },
+  { "position": 274, "domain": "amazon.ca", "category": "E-Commerce" },
+  {
+    "position": 275,
+    "domain": "google.co.jp",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 276,
+    "domain": "khanacademy.org",
+    "category": "Education & Research"
+  },
+  { "position": 277, "domain": "news18.com", "category": "News & Media" },
+  { "position": 278, "domain": "mdpi.com", "category": "Education & Research" },
+  {
+    "position": 279,
+    "domain": "womenshealthmag.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 280, "domain": "kleinanzeigen.de", "category": "E-Commerce" },
+  { "position": 281, "domain": "justwatch.com", "category": "Entertainment" },
+  { "position": 282, "domain": "movieweb.com", "category": "Entertainment" },
+  {
+    "position": 283,
+    "domain": "rateyourmusic.com",
+    "category": "Entertainment"
+  },
+  { "position": 284, "domain": "amazon.co.jp", "category": "E-Commerce" },
+  { "position": 285, "domain": "texas.gov", "category": "Government & NGO" },
+  {
+    "position": 286,
+    "domain": "techradar.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 287,
+    "domain": "redfin.com",
+    "category": "Business & Employment"
+  },
+  { "position": 288, "domain": "airbnb.com", "category": "E-Commerce" },
+  { "position": 289, "domain": "naver.com", "category": "Utilities & Tools" },
+  { "position": 290, "domain": "ndtv.com", "category": "News & Media" },
+  {
+    "position": 291,
+    "domain": "azurefd.net",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 292,
+    "domain": "accuweather.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 293,
+    "domain": "ldoceonline.com",
+    "category": "Education & Research"
+  },
+  { "position": 294, "domain": "rd.com", "category": "Personal & Lifestyle" },
+  { "position": 295, "domain": "planetofhotels.com", "category": "E-Commerce" },
+  { "position": 296, "domain": "aminoapps.com", "category": "Social Networks" },
+  {
+    "position": 297,
+    "domain": "educalingo.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 298,
+    "domain": "lifewire.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 299,
+    "domain": "tomsguide.com",
+    "category": "Technology & Software"
+  },
+  { "position": 300, "domain": "mit.edu", "category": "Education & Research" },
+  {
+    "position": 301,
+    "domain": "nasa.gov",
+    "category": "Education & Research"
+  },
+  {
+    "position": 302,
+    "domain": "vulture.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 303,
+    "domain": "sagepub.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 304,
+    "domain": "everydayhealth.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 305,
+    "domain": "restaurantji.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 306,
+    "domain": "definitions.net",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 307,
+    "domain": "vymaps.com",
+    "category": "Other"
+  },
+  {
+    "position": 308,
+    "domain": "who.int",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 309,
+    "domain": "polygon.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 310,
+    "domain": "tripadvisor.co.uk",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 311,
+    "domain": "theconversation.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 312,
+    "domain": "un.org",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 313,
+    "domain": "esquire.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 314,
+    "domain": "prnewswire.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 315,
+    "domain": "pons.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 316,
+    "domain": "tistory.com",
+    "category": "Other"
+  },
+  {
+    "position": 317,
+    "domain": "wikidata.org",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 318,
+    "domain": "indiatoday.in",
+    "category": "News & Media"
+  },
+  {
+    "position": 319,
+    "domain": "houzz.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 320,
+    "domain": "billboard.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 321,
+    "domain": "mercari.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 322,
+    "domain": "google.com.ua",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 323,
+    "domain": "unsplash.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 324,
+    "domain": "vedantu.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 325,
+    "domain": "menshealth.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 326,
+    "domain": "hopkinsmedicine.org",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 327,
+    "domain": "foodnetwork.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 328,
+    "domain": "allevents.in",
+    "category": "Entertainment"
+  },
+  {
+    "position": 329,
+    "domain": "menupix.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 330,
+    "domain": "elespanol.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 331,
+    "domain": "dw.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 332,
+    "domain": "mundodeportivo.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 333,
+    "domain": "abebooks.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 334,
+    "domain": "encyclopedia.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 335,
+    "domain": "metro.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 336,
+    "domain": "shabdkosh.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 337,
+    "domain": "countryliving.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 338,
+    "domain": "mashable.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 339,
+    "domain": "zippia.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 340,
+    "domain": "metacritic.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 341,
+    "domain": "chron.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 342,
+    "domain": "india.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 343,
+    "domain": "gamesradar.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 344,
+    "domain": "thehindu.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 345,
+    "domain": "macys.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 346,
+    "domain": "standard.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 347,
+    "domain": "goo.ne.jp",
+    "category": "Other"
+  },
+  {
+    "position": 348,
+    "domain": "elmundo.es",
+    "category": "News & Media"
+  },
+  {
+    "position": 349,
+    "domain": "travelocity.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 350,
+    "domain": "stanford.edu",
+    "category": "Education & Research"
+  },
+  { "position": 351, "domain": "dexerto.com", "category": "Entertainment" },
+  { "position": 352, "domain": "wa.gov", "category": "Government & NGO" },
+  { "position": 353, "domain": "tribunnews.com", "category": "News & Media" },
+  { "position": 354, "domain": "yumpu.com", "category": "Other" },
+  { "position": 355, "domain": "zaubee.com", "category": "Other" },
+  {
+    "position": 356,
+    "domain": "umich.edu",
+    "category": "Education & Research"
+  },
+  { "position": 357, "domain": "timesofindia.com", "category": "News & Media" },
+  {
+    "position": 358,
+    "domain": "simplyhired.com",
+    "category": "Business & Employment"
+  },
+  { "position": 359, "domain": "deadline.com", "category": "Entertainment" },
+  {
+    "position": 360,
+    "domain": "harpersbazaar.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 361,
+    "domain": "libretexts.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 362,
+    "domain": "testbook.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 363,
+    "domain": "softonic.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 364,
+    "domain": "medscape.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 365, "domain": "the-sun.com", "category": "News & Media" },
+  {
+    "position": 366,
+    "domain": "techtarget.com",
+    "category": "Technology & Software"
+  },
+  { "position": 367, "domain": "tr-ex.me", "category": "Other" },
+  {
+    "position": 368,
+    "domain": "manta.com",
+    "category": "Business & Employment"
+  },
+  { "position": 369, "domain": "wijopuraka.site", "category": "Other" },
+  { "position": 370, "domain": "nymag.com", "category": "Entertainment" },
+  { "position": 371, "domain": "hinkhoj.com", "category": "Utilities & Tools" },
+  {
+    "position": 372,
+    "domain": "refinery29.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 373, "domain": "carapintas.com", "category": "Other" },
+  { "position": 374, "domain": "abplive.com", "category": "News & Media" },
+  {
+    "position": 375,
+    "domain": "bleacherreport.com",
+    "category": "Sports & Recreation"
+  },
+  { "position": 376, "domain": "archive.org", "category": "Other" },
+  { "position": 377, "domain": "radiotimes.com", "category": "Entertainment" },
+  { "position": 378, "domain": "detik.com", "category": "News & Media" },
+  {
+    "position": 379,
+    "domain": "statista.com",
+    "category": "Business & Employment"
+  },
+  { "position": 380, "domain": "jiosaavn.com", "category": "Entertainment" },
+  {
+    "position": 381,
+    "domain": "tasteofhome.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 382, "domain": "tokopedia.com", "category": "E-Commerce" },
+  { "position": 383, "domain": "hm.com", "category": "E-Commerce" },
+  { "position": 384, "domain": "ft.com", "category": "News & Media" },
+  {
+    "position": 385,
+    "domain": "buzzfile.com",
+    "category": "Business & Employment"
+  },
+  { "position": 386, "domain": "foxnews.com", "category": "News & Media" },
+  {
+    "position": 387,
+    "domain": "google.co.id",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 388,
+    "domain": "brainly.in",
+    "category": "Education & Research"
+  },
+  { "position": 389, "domain": "google.it", "category": "Utilities & Tools" },
+  {
+    "position": 390,
+    "domain": "marriott.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 391, "domain": "vectorstock.com", "category": "E-Commerce" },
+  {
+    "position": 392,
+    "domain": "cbssports.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 393,
+    "domain": "tandfonline.com",
+    "category": "Education & Research"
+  },
+  { "position": 394, "domain": "commonsensemedia.org", "category": "Other" },
+  { "position": 395, "domain": "theatlantic.com", "category": "News & Media" },
+  { "position": 396, "domain": "lemonde.fr", "category": "News & Media" },
+  {
+    "position": 397,
+    "domain": "hubspot.com",
+    "category": "Business & Employment"
+  },
+  { "position": 398, "domain": "prom.ua", "category": "E-Commerce" },
+  {
+    "position": 399,
+    "domain": "behance.net",
+    "category": "Technology & Software"
+  },
+  { "position": 400, "domain": "lyrics.com", "category": "Entertainment" },
+  {
+    "position": 401,
+    "domain": "coursehero.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 402,
+    "domain": "trulia.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 403,
+    "domain": "nsw.gov.au",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 404,
+    "domain": "justia.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 405,
+    "domain": "azlyrics.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 406,
+    "domain": "uptodown.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 407,
+    "domain": "ibm.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 408,
+    "domain": "kompas.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 409,
+    "domain": "huffpost.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 410,
+    "domain": "amazon.es",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 411,
+    "domain": "ranker.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 412,
+    "domain": "linguee.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 413,
+    "domain": "nordstrom.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 414,
+    "domain": "pinterest.es",
+    "category": "Social Networks"
+  },
+  {
+    "position": 415,
+    "domain": "howtopronounce.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 416,
+    "domain": "tutorialspoint.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 417,
+    "domain": "goal.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 418,
+    "domain": "bmj.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 419,
+    "domain": "nationalgeographic.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 420,
+    "domain": "bhg.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 421,
+    "domain": "alberta.ca",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 422,
+    "domain": "loc.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 423,
+    "domain": "allmusic.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 424,
+    "domain": "eventbrite.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 425,
+    "domain": "eater.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 426,
+    "domain": "kroger.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 427,
+    "domain": "kidshealth.org",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 428,
+    "domain": "southernliving.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 429,
+    "domain": "lyricstranslate.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 430,
+    "domain": "healthgrades.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 431,
+    "domain": "vice.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 432,
+    "domain": "asos.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 433,
+    "domain": "grubhub.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 434,
+    "domain": "weather.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 435,
+    "domain": "comicbook.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 436,
+    "domain": "euronews.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 437,
+    "domain": "stylecraze.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 438,
+    "domain": "rocketreach.co",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 439,
+    "domain": "nps.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 440,
+    "domain": "instructables.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 441,
+    "domain": "yandex.ru",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 442,
+    "domain": "legacy.com",
+    "category": "Other"
+  },
+  {
+    "position": 443,
+    "domain": "doordash.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 444,
+    "domain": "makemytrip.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 445,
+    "domain": "ebay.ca",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 446,
+    "domain": "picclick.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 447,
+    "domain": "bustle.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 448,
+    "domain": "newyorker.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 449,
+    "domain": "a-z-animals.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 450,
+    "domain": "jooble.org",
+    "category": "Business & Employment"
+  },
+  { "position": 451, "domain": "eonline.com", "category": "Entertainment" },
+  { "position": 452, "domain": "ebay.de", "category": "E-Commerce" },
+  { "position": 453, "domain": "digitalspy.com", "category": "Entertainment" },
+  { "position": 454, "domain": "twitch.tv", "category": "Entertainment" },
+  { "position": 455, "domain": "ctvnews.ca", "category": "News & Media" },
+  { "position": 456, "domain": "fda.gov", "category": "Government & NGO" },
+  {
+    "position": 457,
+    "domain": "opentable.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 458, "domain": "olx.ua", "category": "E-Commerce" },
+  {
+    "position": 459,
+    "domain": "pngegg.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 460,
+    "domain": "dribbble.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 461,
+    "domain": "namu.wiki",
+    "category": "Education & Research"
+  },
+  {
+    "position": 462,
+    "domain": "pngtree.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 463,
+    "domain": "javatpoint.com",
+    "category": "Education & Research"
+  },
+  { "position": 464, "domain": "lovetoknow.com", "category": "Other" },
+  {
+    "position": 465,
+    "domain": "semanticscholar.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 466,
+    "domain": "etymonline.com",
+    "category": "Education & Research"
+  },
+  { "position": 467, "domain": "nme.com", "category": "Entertainment" },
+  {
+    "position": 468,
+    "domain": "sportingnews.com",
+    "category": "Sports & Recreation"
+  },
+  { "position": 469, "domain": "scmp.com", "category": "News & Media" },
+  { "position": 470, "domain": "state.gov", "category": "Government & NGO" },
+  { "position": 471, "domain": "pinterest.de", "category": "Social Networks" },
+  {
+    "position": 472,
+    "domain": "thepioneerwoman.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 473, "domain": "caranddriver.com", "category": "News & Media" },
+  {
+    "position": 474,
+    "domain": "byrdie.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 475,
+    "domain": "google.com.br",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 476,
+    "domain": "timeanddate.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 477,
+    "domain": "theculturetrip.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 478,
+    "domain": "roadtrippers.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 479,
+    "domain": "smithsonianmag.com",
+    "category": "Education & Research"
+  },
+  { "position": 480, "domain": "drugs.com", "category": "Other" },
+  { "position": 481, "domain": "livemint.com", "category": "News & Media" },
+  { "position": 482, "domain": "letras.com", "category": "Entertainment" },
+  { "position": 483, "domain": "johnlewis.com", "category": "E-Commerce" },
+  {
+    "position": 484,
+    "domain": "consumerreports.org",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 485,
+    "domain": "core.ac.uk",
+    "category": "Education & Research"
+  },
+  { "position": 486, "domain": "investing.com", "category": "Financial" },
+  { "position": 487, "domain": "focus.de", "category": "News & Media" },
+  {
+    "position": 488,
+    "domain": "hinative.com",
+    "category": "Education & Research"
+  },
+  { "position": 489, "domain": "medicinenet.com", "category": "Other" },
+  {
+    "position": 490,
+    "domain": "teacherspayteachers.com",
+    "category": "Education & Research"
+  },
+  { "position": 491, "domain": "sky.com", "category": "Entertainment" },
+  {
+    "position": 492,
+    "domain": "cookpad.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 493,
+    "domain": "betterhealth.vic.gov.au",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 494,
+    "domain": "bobvila.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 495, "domain": "decider.com", "category": "Entertainment" },
+  { "position": 496, "domain": "20minutos.es", "category": "News & Media" },
+  { "position": 497, "domain": "giphy.com", "category": "Entertainment" },
+  { "position": 498, "domain": "nike.com", "category": "E-Commerce" },
+  { "position": 499, "domain": "rozetka.com.ua", "category": "E-Commerce" },
+  {
+    "position": 500,
+    "domain": "thespruceeats.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 501, "domain": "bizjournals.com", "category": "News & Media" },
+  {
+    "position": 502,
+    "domain": "pagesjaunes.fr",
+    "category": "Utilities & Tools"
+  },
+  { "position": 503, "domain": "walmart.ca", "category": "E-Commerce" },
+  { "position": 504, "domain": "yellow.place", "category": "Other" },
+  { "position": 505, "domain": "orbitz.com", "category": "E-Commerce" },
+  { "position": 506, "domain": "primevideo.com", "category": "Entertainment" },
+  { "position": 507, "domain": "liputan6.com", "category": "News & Media" },
+  {
+    "position": 508,
+    "domain": "delish.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 509,
+    "domain": "masterclass.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 510,
+    "domain": "mercadolivre.com.br",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 511,
+    "domain": "howstuffworks.com",
+    "category": "Education & Research"
+  },
+  { "position": 512, "domain": "vk.com", "category": "Social Networks" },
+  { "position": 513, "domain": "psu.edu", "category": "Education & Research" },
+  {
+    "position": 514,
+    "domain": "ebay-kleinanzeigen.de",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 515,
+    "domain": "uptodate.com",
+    "category": "Education & Research"
+  },
+  { "position": 516, "domain": "goodrx.com", "category": "Utilities & Tools" },
+  { "position": 517, "domain": "outlookindia.com", "category": "News & Media" },
+  { "position": 518, "domain": "xbox.com", "category": "Entertainment" },
+  {
+    "position": 519,
+    "domain": "archiveofourown.org",
+    "category": "Entertainment"
+  },
+  { "position": 520, "domain": "bilibili.tv", "category": "Entertainment" },
+  {
+    "position": 521,
+    "domain": "wordnik.com",
+    "category": "Education & Research"
+  },
+  { "position": 522, "domain": "peakpx.com", "category": "Other" },
+  {
+    "position": 523,
+    "domain": "loc8nearme.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 524,
+    "domain": "lawinsider.com",
+    "category": "Business & Employment"
+  },
+  { "position": 525, "domain": "vox.com", "category": "News & Media" },
+  {
+    "position": 526,
+    "domain": "realsimple.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 527,
+    "domain": "yell.com",
+    "category": "Business & Employment"
+  },
+  { "position": 528, "domain": "google.es", "category": "Utilities & Tools" },
+  { "position": 529, "domain": "aarp.org", "category": "Other" },
+  { "position": 530, "domain": "francetvinfo.fr", "category": "News & Media" },
+  { "position": 531, "domain": "nerdwallet.com", "category": "Financial" },
+  { "position": 532, "domain": "pexels.com", "category": "Other" },
+  { "position": 533, "domain": "umn.edu", "category": "Education & Research" },
+  { "position": 534, "domain": "epa.gov", "category": "Government & NGO" },
+  {
+    "position": 535,
+    "domain": "wanderlog.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 536, "domain": "si.edu", "category": "Education & Research" },
+  { "position": 537, "domain": "pinterest.fr", "category": "Social Networks" },
+  { "position": 538, "domain": "kumparan.com", "category": "News & Media" },
+  {
+    "position": 539,
+    "domain": "oracle.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 540,
+    "domain": "theathletic.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 541,
+    "domain": "elconfidencial.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 542,
+    "domain": "birdeye.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 543,
+    "domain": "almaany.com",
+    "category": "Education & Research"
+  },
+  { "position": 544, "domain": "kohls.com", "category": "E-Commerce" },
+  {
+    "position": 545,
+    "domain": "mozilla.org",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 546,
+    "domain": "casetext.com",
+    "category": "Business & Employment"
+  },
+  { "position": 547, "domain": "viator.com", "category": "E-Commerce" },
+  { "position": 548, "domain": "zazzle.com", "category": "E-Commerce" },
+  {
+    "position": 549,
+    "domain": "travelandleisure.com",
+    "category": "Entertainment"
+  },
+  { "position": 550, "domain": "vogue.com", "category": "Entertainment" },
+  {
+    "position": 551,
+    "domain": "livescience.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 552,
+    "domain": "abc.es",
+    "category": "News & Media"
+  },
+  {
+    "position": 553,
+    "domain": "loopnet.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 554,
+    "domain": "apartments.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 555,
+    "domain": "marketwatch.com",
+    "category": "Financial"
+  },
+  {
+    "position": 556,
+    "domain": "famousbirthdays.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 557,
+    "domain": "untappd.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 558,
+    "domain": "glamour.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 559,
+    "domain": "amazon.it",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 560,
+    "domain": "mojim.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 561,
+    "domain": "vrbo.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 562,
+    "domain": "zmenu.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 563,
+    "domain": "theknot.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 564,
+    "domain": "healthdirect.gov.au",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 565,
+    "domain": "hamariweb.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 566,
+    "domain": "howtogeek.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 567,
+    "domain": "shopify.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 568,
+    "domain": "noaa.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 569,
+    "domain": "fresherslive.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 570,
+    "domain": "smh.com.au",
+    "category": "News & Media"
+  },
+  {
+    "position": 571,
+    "domain": "va.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 572,
+    "domain": "livejournal.com",
+    "category": "Social Networks"
+  },
+  {
+    "position": 573,
+    "domain": "rogerebert.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 574,
+    "domain": "gutefrage.net",
+    "category": "Other"
+  },
+  {
+    "position": 575,
+    "domain": "samsclub.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 576,
+    "domain": "alltrails.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 577,
+    "domain": "bol.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 578,
+    "domain": "cylex.us.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 579,
+    "domain": "wordsense.eu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 580,
+    "domain": "republicworld.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 581,
+    "domain": "aljazeera.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 582,
+    "domain": "skysports.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 583,
+    "domain": "psychologytoday.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 584,
+    "domain": "columbia.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 585,
+    "domain": "mubi.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 586,
+    "domain": "foxsports.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 587,
+    "domain": "cinemablend.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 588,
+    "domain": "mountsinai.org",
+    "category": "Other"
+  },
+  {
+    "position": 589,
+    "domain": "thrillist.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 590,
+    "domain": "sirved.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 591,
+    "domain": "plos.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 592,
+    "domain": "cars.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 593,
+    "domain": "allmenus.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 594,
+    "domain": "globalnews.ca",
+    "category": "News & Media"
+  },
+  {
+    "position": 595,
+    "domain": "larousse.fr",
+    "category": "Education & Research"
+  },
+  {
+    "position": 596,
+    "domain": "ultimate-guitar.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 597,
+    "domain": "amazon.com.br",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 598,
+    "domain": "rochester.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 599,
+    "domain": "pinterest.co.uk",
+    "category": "Social Networks"
+  },
+  {
+    "position": 600,
+    "domain": "angi.com",
+    "category": "Business & Employment"
+  },
+  { "position": 601, "domain": "instacart.com", "category": "E-Commerce" },
+  {
+    "position": 602,
+    "domain": "zdnet.com",
+    "category": "Technology & Software"
+  },
+  { "position": 603, "domain": "artstation.com", "category": "Entertainment" },
+  {
+    "position": 604,
+    "domain": "kiddle.co",
+    "category": "Education & Research"
+  },
+  { "position": 605, "domain": "newsbreak.com", "category": "News & Media" },
+  {
+    "position": 606,
+    "domain": "filmaffinity.com",
+    "category": "Entertainment"
+  },
+  { "position": 607, "domain": "mass.gov", "category": "Government & NGO" },
+  {
+    "position": 608,
+    "domain": "momjunction.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 609, "domain": "looper.com", "category": "Entertainment" },
+  { "position": 610, "domain": "leparisien.fr", "category": "News & Media" },
+  { "position": 611, "domain": "chordify.net", "category": "Entertainment" },
+  {
+    "position": 612,
+    "domain": "pocket-lint.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 613,
+    "domain": "chamberofcommerce.com",
+    "category": "Business & Employment"
+  },
+  { "position": 614, "domain": "alamy.es", "category": "E-Commerce" },
+  { "position": 615, "domain": "lyst.com", "category": "E-Commerce" },
+  {
+    "position": 616,
+    "domain": "cylex-uk.co.uk",
+    "category": "Business & Employment"
+  },
+  { "position": 617, "domain": "usmagazine.com", "category": "News & Media" },
+  { "position": 618, "domain": "booked.net", "category": "E-Commerce" },
+  { "position": 619, "domain": "distractify.com", "category": "Entertainment" },
+  { "position": 620, "domain": "fc2.com", "category": "Other" },
+  { "position": 621, "domain": "etonline.com", "category": "News & Media" },
+  {
+    "position": 622,
+    "domain": "bbcgoodfood.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 623, "domain": "thetimes.co.uk", "category": "News & Media" },
+  {
+    "position": 624,
+    "domain": "apkcombo.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 625,
+    "domain": "powerthesaurus.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 626,
+    "domain": "sofascore.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 627,
+    "domain": "localsearchforum.com",
+    "category": "Business & Employment"
+  },
+  { "position": 628, "domain": "apa.org", "category": "Education & Research" },
+  {
+    "position": 629,
+    "domain": "pikiran-rakyat.com",
+    "category": "News & Media"
+  },
+  { "position": 630, "domain": "letras.mus.br", "category": "Entertainment" },
+  { "position": 631, "domain": "jagran.com", "category": "News & Media" },
+  {
+    "position": 632,
+    "domain": "magazineluiza.com.br",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 633,
+    "domain": "mercadolibre.com.mx",
+    "category": "E-Commerce"
+  },
+  { "position": 634, "domain": "cdiscount.com", "category": "E-Commerce" },
+  { "position": 635, "domain": "ufl.edu", "category": "Education & Research" },
+  { "position": 636, "domain": "farfetch.com", "category": "E-Commerce" },
+  { "position": 637, "domain": "argos.co.uk", "category": "E-Commerce" },
+  { "position": 638, "domain": "cancer.gov", "category": "Government & NGO" },
+  {
+    "position": 639,
+    "domain": "techcrunch.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 640,
+    "domain": "androidauthority.com",
+    "category": "Technology & Software"
+  },
+  { "position": 641, "domain": "picuki.com", "category": "Other" },
+  {
+    "position": 642,
+    "domain": "ancestry.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 643, "domain": "songfacts.com", "category": "Entertainment" },
+  { "position": 644, "domain": "fnac.com", "category": "E-Commerce" },
+  { "position": 645, "domain": "walgreens.com", "category": "E-Commerce" },
+  {
+    "position": 646,
+    "domain": "city-data.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 647,
+    "domain": "history.com",
+    "category": "Education & Research"
+  },
+  { "position": 648, "domain": "ed.gov", "category": "Government & NGO" },
+  {
+    "position": 649,
+    "domain": "thekitchn.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 650, "domain": "tripadvisor.ca", "category": "E-Commerce" },
+  {
+    "position": 651,
+    "domain": "forvo.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 652,
+    "domain": "wondershare.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 653,
+    "domain": "travelweekly.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 654,
+    "domain": "prtimes.jp",
+    "category": "News & Media"
+  },
+  {
+    "position": 655,
+    "domain": "bestplaces.net",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 656,
+    "domain": "thjorsson-met.de",
+    "category": "Other"
+  },
+  {
+    "position": 657,
+    "domain": "familyhandyman.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 658,
+    "domain": "virginia.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 659,
+    "domain": "pinkvilla.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 660,
+    "domain": "rae.es",
+    "category": "Education & Research"
+  },
+  {
+    "position": 661,
+    "domain": "kompass.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 662,
+    "domain": "foodandwine.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 663,
+    "domain": "nyc.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 664,
+    "domain": "hellomagazine.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 665,
+    "domain": "eurogamer.net",
+    "category": "Entertainment"
+  },
+  {
+    "position": 666,
+    "domain": "rakuten.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 667,
+    "domain": "mappy.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 668,
+    "domain": "amazon.com.au",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 669,
+    "domain": "berkeley.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 670,
+    "domain": "doubtnut.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 671,
+    "domain": "engadget.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 672,
+    "domain": "elcomercio.pe",
+    "category": "News & Media"
+  },
+  {
+    "position": 673,
+    "domain": "nhsinform.scot",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 674,
+    "domain": "bringfido.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 675,
+    "domain": "letterboxd.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 676,
+    "domain": "michigan.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 677,
+    "domain": "w3schools.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 678,
+    "domain": "gq.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 679,
+    "domain": "news.com.au",
+    "category": "News & Media"
+  },
+  {
+    "position": 680,
+    "domain": "ingles.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 681,
+    "domain": "shazam.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 682,
+    "domain": "cvs.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 683,
+    "domain": "jamanetwork.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 684,
+    "domain": "musixmatch.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 685,
+    "domain": "amarujala.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 686,
+    "domain": "cheatsheet.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 687,
+    "domain": "ieee.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 688,
+    "domain": "newegg.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 689,
+    "domain": "motortrend.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 690,
+    "domain": "playstation.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 691,
+    "domain": "idealo.de",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 692,
+    "domain": "denofgeek.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 693,
+    "domain": "prevention.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 694,
+    "domain": "opencorporates.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 695,
+    "domain": "unirioja.es",
+    "category": "Education & Research"
+  },
+  {
+    "position": 696,
+    "domain": "acs.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 697,
+    "domain": "boomplay.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 698,
+    "domain": "google.co.kr",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 699,
+    "domain": "timesnownews.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 700,
+    "domain": "washington.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 701,
+    "domain": "stern.de",
+    "category": "News & Media"
+  },
+  {
+    "position": 702,
+    "domain": "udemy.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 703,
+    "domain": "kbb.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 704,
+    "domain": "freecodecamp.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 705,
+    "domain": "edmunds.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 706,
+    "domain": "hatenablog.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 707,
+    "domain": "showmelocal.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 708,
+    "domain": "businesswire.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 709,
+    "domain": "mlb.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 710,
+    "domain": "wisc.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 711,
+    "domain": "marthastewart.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 712,
+    "domain": "cylex.de",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 713,
+    "domain": "food.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 714,
+    "domain": "news-medical.net",
+    "category": "News & Media"
+  },
+  {
+    "position": 715,
+    "domain": "wikimapia.org",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 716,
+    "domain": "pcgamer.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 717,
+    "domain": "brainly.lat",
+    "category": "Education & Research"
+  },
+  {
+    "position": 718,
+    "domain": "tripadvisor.fr",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 719,
+    "domain": "zendesk.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 720,
+    "domain": "justanswer.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 721,
+    "domain": "health.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 722,
+    "domain": "mynavi.jp",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 723,
+    "domain": "asa.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 724,
+    "domain": "ct.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 725,
+    "domain": "t-online.de",
+    "category": "News & Media"
+  },
+  {
+    "position": 726,
+    "domain": "zara.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 727,
+    "domain": "20minutes.fr",
+    "category": "News & Media"
+  },
+  {
+    "position": 728,
+    "domain": "fortune.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 729,
+    "domain": "iheart.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 730,
+    "domain": "justice.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 731,
+    "domain": "academic-accelerator.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 732,
+    "domain": "whosampled.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 733,
+    "domain": "tvinsider.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 734,
+    "domain": "irs.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 735,
+    "domain": "homes.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 736,
+    "domain": "mercadolibre.com.ar",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 737,
+    "domain": "scientificamerican.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 738,
+    "domain": "popularmechanics.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 739,
+    "domain": "verywellfit.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 740,
+    "domain": "vanityfair.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 741,
+    "domain": "in.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 742,
+    "domain": "chicagotribune.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 743,
+    "domain": "hgtv.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 744,
+    "domain": "made-in-china.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 745,
+    "domain": "kijiji.ca",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 746,
+    "domain": "thriftbooks.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 747,
+    "domain": "verywellmind.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 748,
+    "domain": "housebeautiful.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 749,
+    "domain": "uchicago.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 750,
+    "domain": "hitc.com",
+    "category": "Entertainment"
+  },
+  { "position": 751, "domain": "purewow.com", "category": "Entertainment" },
+  {
+    "position": 752,
+    "domain": "cntraveler.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 753, "domain": "allure.com", "category": "Entertainment" },
+  {
+    "position": 754,
+    "domain": "spanishdict.com",
+    "category": "Education & Research"
+  },
+  { "position": 755, "domain": "clarin.com", "category": "News & Media" },
+  {
+    "position": 756,
+    "domain": "neverbounce.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 757,
+    "domain": "answers.com",
+    "category": "Education & Research"
+  },
+  { "position": 758, "domain": "moneycontrol.com", "category": "Financial" },
+  {
+    "position": 759,
+    "domain": "dickssportinggoods.com",
+    "category": "E-Commerce"
+  },
+  { "position": 760, "domain": "yale.edu", "category": "Education & Research" },
+  {
+    "position": 761,
+    "domain": "meinestadt.de",
+    "category": "Business & Employment"
+  },
+  { "position": 762, "domain": "roku.com", "category": "Entertainment" },
+  { "position": 763, "domain": "google.ch", "category": "Utilities & Tools" },
+  { "position": 764, "domain": "urdupoint.com", "category": "News & Media" },
+  {
+    "position": 765,
+    "domain": "radaris.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 766,
+    "domain": "remax.com",
+    "category": "Business & Employment"
+  },
+  { "position": 767, "domain": "usgs.gov", "category": "Government & NGO" },
+  { "position": 768, "domain": "hola.com", "category": "Entertainment" },
+  {
+    "position": 769,
+    "domain": "kaiserpermanente.org",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 770, "domain": "smule.com", "category": "Entertainment" },
+  {
+    "position": 771,
+    "domain": "mercadolibre.com.co",
+    "category": "E-Commerce"
+  },
+  { "position": 772, "domain": "hotelplanner.com", "category": "E-Commerce" },
+  {
+    "position": 773,
+    "domain": "architecturaldigest.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 774,
+    "domain": "allbiz.com",
+    "category": "Business & Employment"
+  },
+  { "position": 775, "domain": "slate.com", "category": "News & Media" },
+  { "position": 776, "domain": "carfax.com", "category": "E-Commerce" },
+  { "position": 777, "domain": "heb.com", "category": "E-Commerce" },
+  { "position": 778, "domain": "hypebeast.com", "category": "Entertainment" },
+  {
+    "position": 779,
+    "domain": "lonelyplanet.com",
+    "category": "Entertainment"
+  },
+  { "position": 780, "domain": "bfmtv.com", "category": "News & Media" },
+  { "position": 781, "domain": "note.com", "category": "Entertainment" },
+  { "position": 782, "domain": "inverse.com", "category": "News & Media" },
+  { "position": 783, "domain": "corriere.it", "category": "News & Media" },
+  { "position": 784, "domain": "shopee.co.id", "category": "E-Commerce" },
+  { "position": 785, "domain": "weather.gov", "category": "Government & NGO" },
+  {
+    "position": 786,
+    "domain": "alphr.com",
+    "category": "Technology & Software"
+  },
+  { "position": 787, "domain": "hp.com", "category": "Technology & Software" },
+  {
+    "position": 788,
+    "domain": "cybo.com",
+    "category": "Business & Employment"
+  },
+  { "position": 789, "domain": "next.co.uk", "category": "E-Commerce" },
+  { "position": 790, "domain": "priceline.com", "category": "E-Commerce" },
+  { "position": 791, "domain": "unam.mx", "category": "Education & Research" },
+  { "position": 792, "domain": "pa.gov", "category": "Government & NGO" },
+  { "position": 793, "domain": "actu.fr", "category": "News & Media" },
+  {
+    "position": 794,
+    "domain": "upenn.edu",
+    "category": "Education & Research"
+  },
+  { "position": 795, "domain": "yelp.ca", "category": "Business & Employment" },
+  {
+    "position": 796,
+    "domain": "beebom.com",
+    "category": "Technology & Software"
+  },
+  { "position": 797, "domain": "abril.com.br", "category": "News & Media" },
+  { "position": 798, "domain": "pixnet.net", "category": "Social Networks" },
+  {
+    "position": 799,
+    "domain": "sandiegouniontribune.com",
+    "category": "News & Media"
+  },
+  { "position": 800, "domain": "self.com", "category": "Personal & Lifestyle" },
+  { "position": 801, "domain": "grid.id", "category": "News & Media" },
+  {
+    "position": 802,
+    "domain": "livestrong.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 803,
+    "domain": "jdpower.com",
+    "category": "Business & Employment"
+  },
+  { "position": 804, "domain": "lemon8-app.com", "category": "Other" },
+  { "position": 805, "domain": "tripsavvy.com", "category": "Entertainment" },
+  {
+    "position": 806,
+    "domain": "arxiv.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 807,
+    "domain": "instyle.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 808,
+    "domain": "movoto.com",
+    "category": "Business & Employment"
+  },
+  { "position": 809, "domain": "linguee.fr", "category": "Utilities & Tools" },
+  { "position": 810, "domain": "klook.com", "category": "E-Commerce" },
+  { "position": 811, "domain": "hilton.com", "category": "E-Commerce" },
+  { "position": 812, "domain": "overstock.com", "category": "E-Commerce" },
+  {
+    "position": 813,
+    "domain": "eatingwell.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 814, "domain": "bukalapak.com", "category": "E-Commerce" },
+  { "position": 815, "domain": "cargurus.com", "category": "E-Commerce" },
+  { "position": 816, "domain": "nikkei.com", "category": "News & Media" },
+  {
+    "position": 817,
+    "domain": "purdue.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 818,
+    "domain": "thesaurus.plus",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 819,
+    "domain": "mindbodygreen.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 820, "domain": "fineartamerica.com", "category": "E-Commerce" },
+  { "position": 821, "domain": "unesco.org", "category": "Government & NGO" },
+  { "position": 822, "domain": "tunebat.com", "category": "Entertainment" },
+  { "position": 823, "domain": "army.mil", "category": "Government & NGO" },
+  { "position": 824, "domain": "mo.gov", "category": "Government & NGO" },
+  { "position": 825, "domain": "osu.edu", "category": "Education & Research" },
+  { "position": 826, "domain": "tripadvisor.co", "category": "Entertainment" },
+  { "position": 827, "domain": "bhphotovideo.com", "category": "E-Commerce" },
+  {
+    "position": 828,
+    "domain": "superuser.com",
+    "category": "Technology & Software"
+  },
+  { "position": 829, "domain": "sfgate.com", "category": "News & Media" },
+  { "position": 830, "domain": "worldbank.org", "category": "Financial" },
+  { "position": 831, "domain": "seamless.com", "category": "E-Commerce" },
+  { "position": 832, "domain": "ozon.ru", "category": "E-Commerce" },
+  { "position": 833, "domain": "fool.com", "category": "Financial" },
+  { "position": 834, "domain": "dell.com", "category": "E-Commerce" },
+  { "position": 835, "domain": "asda.com", "category": "E-Commerce" },
+  { "position": 836, "domain": "ucla.edu", "category": "Education & Research" },
+  {
+    "position": 837,
+    "domain": "olympics.com",
+    "category": "Sports & Recreation"
+  },
+  { "position": 838, "domain": "welt.de", "category": "News & Media" },
+  { "position": 839, "domain": "khandbahale.com", "category": "Other" },
+  { "position": 840, "domain": "spiegel.de", "category": "News & Media" },
+  { "position": 841, "domain": "tripadvisor.de", "category": "Entertainment" },
+  {
+    "position": 842,
+    "domain": "womansday.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 843, "domain": "songkick.com", "category": "Entertainment" },
+  { "position": 844, "domain": "chip.de", "category": "Technology & Software" },
+  { "position": 845, "domain": "nasdaq.com", "category": "Financial" },
+  { "position": 846, "domain": "tesco.com", "category": "E-Commerce" },
+  {
+    "position": 847,
+    "domain": "seventeen.com",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 848, "domain": "hbr.org", "category": "Business & Employment" },
+  { "position": 849, "domain": "stockx.com", "category": "E-Commerce" },
+  {
+    "position": 850,
+    "domain": "oprahdaily.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 851,
+    "domain": "terra.com.br",
+    "category": "News & Media"
+  },
+  {
+    "position": 852,
+    "domain": "autoblog.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 853,
+    "domain": "postmates.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 854,
+    "domain": "autotrader.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 855,
+    "domain": "pitchbook.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 856,
+    "domain": "nbcsports.com",
+    "category": "Sports & Recreation"
+  },
+  {
+    "position": 857,
+    "domain": "linguee.es",
+    "category": "Education & Research"
+  },
+  {
+    "position": 858,
+    "domain": "ebay.com.au",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 859,
+    "domain": "lumenlearning.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 860,
+    "domain": "openedition.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 861,
+    "domain": "compass.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 862,
+    "domain": "suara.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 863,
+    "domain": "unacademy.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 864,
+    "domain": "bonappetit.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 865,
+    "domain": "state.mn.us",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 866,
+    "domain": "msu.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 867,
+    "domain": "aajtak.in",
+    "category": "News & Media"
+  },
+  {
+    "position": 868,
+    "domain": "dzen.ru",
+    "category": "Other"
+  },
+  {
+    "position": 869,
+    "domain": "sueddeutsche.de",
+    "category": "News & Media"
+  },
+  {
+    "position": 870,
+    "domain": "utah.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 871,
+    "domain": "audible.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 872,
+    "domain": "marketscreener.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 873,
+    "domain": "lanacion.com.ar",
+    "category": "News & Media"
+  },
+  {
+    "position": 874,
+    "domain": "seriouseats.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 875,
+    "domain": "docomo.ne.jp",
+    "category": "Other"
+  },
+  {
+    "position": 876,
+    "domain": "navitime.co.jp",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 877,
+    "domain": "bartleby.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 878,
+    "domain": "songmeanings.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 879,
+    "domain": "merdeka.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 880,
+    "domain": "cnutbags.de",
+    "category": "Other"
+  },
+  {
+    "position": 881,
+    "domain": "liveabout.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 882,
+    "domain": "seattletimes.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 883,
+    "domain": "bankrate.com",
+    "category": "Financial"
+  },
+  {
+    "position": 884,
+    "domain": "aaa.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 885,
+    "domain": "carousell.com.my",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 886,
+    "domain": "ohio.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 887,
+    "domain": "thewrap.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 888,
+    "domain": "allocine.fr",
+    "category": "Entertainment"
+  },
+  {
+    "position": 889,
+    "domain": "wordwall.net",
+    "category": "Education & Research"
+  },
+  {
+    "position": 890,
+    "domain": "coursera.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 891,
+    "domain": "ichacha.net",
+    "category": "Education & Research"
+  },
+  {
+    "position": 892,
+    "domain": "menards.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 893,
+    "domain": "trivago.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 894,
+    "domain": "11880.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 895,
+    "domain": "babycenter.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 896,
+    "domain": "synonym.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 897,
+    "domain": "onlyinyourstate.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 898,
+    "domain": "arcgis.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 899,
+    "domain": "sap.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 900,
+    "domain": "google.nl",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 901,
+    "domain": "androidpolice.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 902,
+    "domain": "livehindustan.com",
+    "category": "News & Media"
+  },
+  { "position": 903, "domain": "gaana.com", "category": "Entertainment" },
+  {
+    "position": 904,
+    "domain": "quizizz.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 905,
+    "domain": "datanyze.com",
+    "category": "Business & Employment"
+  },
+  { "position": 906, "domain": "pressreader.com", "category": "News & Media" },
+  { "position": 907, "domain": "ox.ac.uk", "category": "Education & Research" },
+  { "position": 908, "domain": "pixiv.net", "category": "Entertainment" },
+  {
+    "position": 909,
+    "domain": "interglot.com",
+    "category": "Utilities & Tools"
+  },
+  { "position": 910, "domain": "france24.com", "category": "News & Media" },
+  {
+    "position": 911,
+    "domain": "collegedunia.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 912,
+    "domain": "myfitnesspal.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 913,
+    "domain": "townandcountrymag.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 914,
+    "domain": "dotesports.com",
+    "category": "Sports & Recreation"
+  },
+  { "position": 915, "domain": "wynk.in", "category": "Entertainment" },
+  {
+    "position": 916,
+    "domain": "knowyourmeme.com",
+    "category": "Entertainment"
+  },
+  { "position": 917, "domain": "unc.edu", "category": "Education & Research" },
+  { "position": 918, "domain": "1stdibs.com", "category": "E-Commerce" },
+  { "position": 919, "domain": "setlist.fm", "category": "Entertainment" },
+  {
+    "position": 920,
+    "domain": "worldplaces.me",
+    "category": "Social Networks"
+  },
+  { "position": 921, "domain": "matrix-freiburg.de", "category": "Other" },
+  { "position": 922, "domain": "complex.com", "category": "Entertainment" },
+  { "position": 923, "domain": "canadiantire.ca", "category": "E-Commerce" },
+  {
+    "position": 924,
+    "domain": "yellowpages.ca",
+    "category": "Business & Employment"
+  },
+  { "position": 925, "domain": "epicentrk.ua", "category": "E-Commerce" },
+  { "position": 926, "domain": "ihg.com", "category": "Personal & Lifestyle" },
+  { "position": 927, "domain": "diy.com", "category": "E-Commerce" },
+  {
+    "position": 928,
+    "domain": "xda-developers.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 929,
+    "domain": "pennmedicine.org",
+    "category": "Education & Research"
+  },
+  { "position": 930, "domain": "allegro.pl", "category": "E-Commerce" },
+  {
+    "position": 931,
+    "domain": "google.com.mx",
+    "category": "Utilities & Tools"
+  },
+  { "position": 932, "domain": "youm7.com", "category": "News & Media" },
+  { "position": 933, "domain": "flipboard.com", "category": "News & Media" },
+  {
+    "position": 934,
+    "domain": "oeffnungszeitenbuch.de",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 935,
+    "domain": "churchofjesuschrist.org",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 936, "domain": "bigl.ua", "category": "E-Commerce" },
+  {
+    "position": 937,
+    "domain": "physio-pedia.com",
+    "category": "Education & Research"
+  },
+  { "position": 938, "domain": "songlyrics.com", "category": "Entertainment" },
+  { "position": 939, "domain": "maryland.gov", "category": "Government & NGO" },
+  { "position": 940, "domain": "faz.net", "category": "News & Media" },
+  {
+    "position": 941,
+    "domain": "omnicalculator.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 942,
+    "domain": "teenvogue.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 943,
+    "domain": "usembassy.gov",
+    "category": "Government & NGO"
+  },
+  { "position": 944, "domain": "motor1.com", "category": "Other" },
+  { "position": 945, "domain": "nj.com", "category": "News & Media" },
+  { "position": 946, "domain": "rtve.es", "category": "News & Media" },
+  {
+    "position": 947,
+    "domain": "glamourmagazine.co.uk",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 948,
+    "domain": "tripadvisor.in",
+    "category": "Personal & Lifestyle"
+  },
+  { "position": 949, "domain": "okdiario.com", "category": "News & Media" },
+  {
+    "position": 950,
+    "domain": "brides.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 951,
+    "domain": "oregon.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 952,
+    "domain": "firstcry.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 953,
+    "domain": "illinois.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 954,
+    "domain": "www.gob.mx",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 955,
+    "domain": "stylecaster.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 956,
+    "domain": "tastingtable.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 957,
+    "domain": "utexas.edu",
+    "category": "Education & Research"
+  },
+  {
+    "position": 958,
+    "domain": "daum.net",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 959,
+    "domain": "gadgets360.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 960,
+    "domain": "alamyimages.fr",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 961,
+    "domain": "freepik.es",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 962,
+    "domain": "jagranjosh.com",
+    "category": "Education & Research"
+  },
+  {
+    "position": 963,
+    "domain": "theglobeandmail.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 964,
+    "domain": "coldwellbankerhomes.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 965,
+    "domain": "pressbooks.pub",
+    "category": "Education & Research"
+  },
+  {
+    "position": 966,
+    "domain": "otto.de",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 967,
+    "domain": "inews.co.uk",
+    "category": "News & Media"
+  },
+  {
+    "position": 968,
+    "domain": "ssciindia.com",
+    "category": "Other"
+  },
+  {
+    "position": 969,
+    "domain": "axios.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 970,
+    "domain": "dot.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 971,
+    "domain": "grammarly.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 972,
+    "domain": "mentalfloss.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 973,
+    "domain": "housing.com",
+    "category": "Business & Employment"
+  },
+  {
+    "position": 974,
+    "domain": "francebleu.fr",
+    "category": "News & Media"
+  },
+  {
+    "position": 975,
+    "domain": "pcgamesn.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 976,
+    "domain": "blibli.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 977,
+    "domain": "gizmodo.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 978,
+    "domain": "redalyc.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 979,
+    "domain": "similarweb.com",
+    "category": "Technology & Software"
+  },
+  {
+    "position": 980,
+    "domain": "dbpedia.org",
+    "category": "Education & Research"
+  },
+  {
+    "position": 981,
+    "domain": "galabaubuckley.de",
+    "category": "Other"
+  },
+  {
+    "position": 982,
+    "domain": "minitool.com",
+    "category": "Utilities & Tools"
+  },
+  {
+    "position": 983,
+    "domain": "thedailybeast.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 984,
+    "domain": "tabelog.com",
+    "category": "Entertainment"
+  },
+  {
+    "position": 985,
+    "domain": "thebalancemoney.com",
+    "category": "Financial"
+  },
+  {
+    "position": 986,
+    "domain": "voanews.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 987,
+    "domain": "top-rated.online",
+    "category": "Other"
+  },
+  {
+    "position": 988,
+    "domain": "nydailynews.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 989,
+    "domain": "scielo.br",
+    "category": "Education & Research"
+  },
+  {
+    "position": 990,
+    "domain": "repubblica.it",
+    "category": "News & Media"
+  },
+  {
+    "position": 991,
+    "domain": "rei.com",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 992,
+    "domain": "sheknows.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 993,
+    "domain": "naomedical.com",
+    "category": "Other"
+  },
+  {
+    "position": 994,
+    "domain": "dallasnews.com",
+    "category": "News & Media"
+  },
+  {
+    "position": 995,
+    "domain": "nj.gov",
+    "category": "Government & NGO"
+  },
+  {
+    "position": 996,
+    "domain": "biblegateway.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 997,
+    "domain": "verywellfamily.com",
+    "category": "Personal & Lifestyle"
+  },
+  {
+    "position": 998,
+    "domain": "wise.com",
+    "category": "Financial"
+  },
+  {
+    "position": 999,
+    "domain": "bigw.com.au",
+    "category": "E-Commerce"
+  },
+  {
+    "position": 1000,
+    "domain": "yardbarker.com",
+    "category": "Sports & Recreation"
+  }
+]

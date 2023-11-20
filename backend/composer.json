@@ -1,0 +1,6 @@
+{
+    "require": {
+        "robmorgan/phinx": "^0.15.2",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

@@ -1,0 +1,5 @@
+vendor/
+.env
+oauth_key.json
+token.json
+service-acc-key.json

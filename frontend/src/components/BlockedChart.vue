@@ -175,7 +175,7 @@ const chartOptions = computed(() => ({
   },
 
   xaxis: {
-    min: new Date("2023-08-07").getTime(),
+    min: new Date("2020-01-01").getTime(),
     title: {
       text: "Date",
       style: {
@@ -232,7 +232,7 @@ const chartOptions = computed(() => ({
           // object with one key-value pair for each bot name. value is an array of objects of all check dates, with a count for each check day.
           // console.log(botsMapping);
 
-          const startDate = new Date("2023-08-07");
+          const startDate = new Date("2010-01-01");
           const today = new Date();
           let botSeries = {};
 

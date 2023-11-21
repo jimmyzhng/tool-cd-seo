@@ -36,7 +36,7 @@ export default {
     });
 
     const tableData = computed(() => {
-      // console.log("tableData", chartStore.chartData);
+      console.log("tableData", chartStore.chartData);
 
       if (!chartStore.chartData) return [];
 

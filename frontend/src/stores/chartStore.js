@@ -30,6 +30,7 @@ export const useChartsStore = defineStore({
       if (response.ok) {
         const data = await response.json();
         this.botNames = data.botNames;
+        // console.log('bot names', this.botNames)
       }
     }
   },

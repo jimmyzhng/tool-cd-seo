@@ -1,8 +1,10 @@
 <?php
+$config = include 'config.php';
 include 'db/db_connection.php';
-
 header("Content-Type: application/json");
 header("Access-Control-Allow-Origin: *");
+
+$botCategory = $config['bot_category'];
 
   if ($_SERVER['REQUEST_METHOD'] !== 'GET') {
     echo json_encode(['error' => 'Invalid request type']);
@@ -19,7 +21,7 @@ if ($category !== null && !preg_match('/^[a-zA-Z0-9\s]+$/', $category)) {
   exit;
 }
 
-$whereClause = "ws.status = 'Blocked' AND ws.block_date <= CURDATE()";
+$whereClause = "ws.status = 'Blocked' AND ws.block_date <= CURDATE() AND b.category = :bot_category";
 if($category !== null) {
     $whereClause .= " AND w.category = :category";
 }
@@ -35,6 +37,7 @@ ORDER BY DATE(ws.block_date), ws.bot_id
 ";
 
 $stmt = $pdo->prepare($query);
+$stmt->bindParam(':bot_category', $botCategory, PDO::PARAM_STR);
 
 if($category !== null) {
   $stmt->bindParam(':category', $category);

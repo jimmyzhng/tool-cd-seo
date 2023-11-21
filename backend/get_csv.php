@@ -13,15 +13,30 @@ if ($_SERVER['REQUEST_METHOD'] !== 'GET') {
 }
 
 try {
+    // Get all bot names
+    $botNamesQuery = "SELECT name FROM Bots WHERE category = :category";
+    $botStmt = $pdo->prepare($botNamesQuery);
+    $botStmt->bindParam(':category', $botCategory, PDO::PARAM_STR);
+    $botStmt->execute();
+    $botNames = $botStmt->fetchAll(PDO::FETCH_COLUMN);
+
+    // dynamic query to create each column
+    $dynamicQueryParts = [];
+    foreach ($botNames as $botName) {
+        $dynamicQueryParts[] = "MAX(CASE WHEN b.name = '$botName' THEN ws.status ELSE NULL END) AS `$botName`";
+    }
+    $dynamicSelect = implode(", ", $dynamicQueryParts);
+
+    if (empty($dynamicQueryParts)) {
+        throw new Exception("No bots found in the specified category. Here is what we have: " .  implode(", ", $botNames));
+    }
+
     $query = "
         SELECT 
             w.position AS Position,
             w.url AS Website,
             w.category AS Category,
-            MAX(CASE WHEN b.name = 'GPTBot' THEN ws.status ELSE NULL END) AS GPTBot,
-            MAX(CASE WHEN b.name = 'CCBot' THEN ws.status ELSE NULL END) AS CCBot,
-            MAX(CASE WHEN b.name = 'Anthropic-AI' THEN ws.status ELSE NULL END) AS 'anthropic-ai',
-            MAX(CASE WHEN b.name = 'Google-Extended' THEN ws.status ELSE NULL END) AS 'Google-Extended'
+            $dynamicSelect
         FROM 
             Websites w
         JOIN 

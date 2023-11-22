@@ -41,7 +41,7 @@
       </div>
       </div>
       <div class="last-update-cont">
-        Last Updated: Nov. 14
+        Last Updated: {{ formatDate(websiteStatusStore.lastUpdated) }}
       </div>
     </div>
 

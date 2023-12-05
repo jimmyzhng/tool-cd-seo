@@ -1,14 +1,14 @@
 <?php
 require_once "config.php";
-require_once APP_ROOT . '/vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 $dotenv = Dotenv\Dotenv::createImmutable(__DIR__ . '/..');
 $dotenv->load();
 
-$host = $_ENV['LOCAL_DB_HOST'];
-$dbname = $_ENV['LOCAL_DB_NAME'];
-$user = $_ENV['LOCAL_DB_USER'];
-$password = $_ENV['LOCAL_DB_PASS'];
+$host = $_ENV['RDS_DB_HOST'];
+$dbname = $_ENV['RDS_DB_NAME'];
+$user = $_ENV['RDS_DB_USER'];
+$password = $_ENV['RDS_DB_PASS'];
 
 $options = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,

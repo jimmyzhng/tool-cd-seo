@@ -22,7 +22,7 @@ def get_archived_snapshots(site):
     response = requests.get(cdx_url, headers=headers)
     response.raise_for_status()
     data = response.json()
-    time.sleep(14);
+    time.sleep(15);
     return [entry[0] for entry in data[1:]]
 
 
@@ -32,7 +32,7 @@ def user_agent_present_in_snapshot(timestamp, user_agent, site):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
     response = requests.get(url, headers=headers)
-    time.sleep(14);
+    time.sleep(15);
     return user_agent in response.text
 
 
@@ -59,24 +59,49 @@ def adaptive_binary_search(user_agent, site):
         if user_agent_present_in_snapshot(timestamps[i], user_agent, site):
             date = timestamps[i][:8]
             formatted_date = f"{date[:4]}-{date[4:6]}-{date[6:8]}"
-            # print( f"User-Agent {user_agent} was first found in robots.txt on {formatted_date}")
+            print( f"User-Agent {user_agent} was first found in robots.txt on {formatted_date} for {site}")
             return formatted_date
 
-    # print(f"User-Agent {user_agent} was not found in the available archive.")
+    print(f"User-Agent {user_agent} was not found in the available archive.")
     return "Unretrievable"
 
 
 # Test
-# adaptive_binary_search("GPTBot", "time.com")
+# adaptive_binary_search("MJ12bot", "reddit.com")
+# adaptive_binary_search("MJ12bot", "wikipedia.org")
 # adaptive_binary_search("CCBot", "scientificamerican.com")
 # adaptive_binary_search("anthropic-ai", "scientificamerican.com")
-# adaptive_binary_search("Google-Extended", "scientificamerican.com")
+adaptive_binary_search("Google-Extended", "bizjournals.com")
+adaptive_binary_search("Google-Extended", "stern.de")
+adaptive_binary_search("Google-Extended", "repubblica.it")
 
-if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python3 utils/crawlerBlockDate.py <bot_name> <url>")
-        sys.exit(1)
-    botName = sys.argv[1]
-    url = sys.argv[2]
 
-    print(adaptive_binary_search(botName, url))
+adaptive_binary_search("GPTBot", "tr-ex.me")
+adaptive_binary_search("GPTBot", "abc.es")
+adaptive_binary_search("GPTBot", "merdeka.com")
+
+adaptive_binary_search("anthropic-ai", "reverso.net")
+adaptive_binary_search("anthropic-ai", "wired.com")
+adaptive_binary_search("anthropic-ai", "newyorker.com")
+adaptive_binary_search("anthropic-ai", "vogue.com")
+adaptive_binary_search("anthropic-ai", "glamour.com")
+adaptive_binary_search("anthropic-ai", "gq.com")
+adaptive_binary_search("anthropic-ai", "vanityfair.com")
+adaptive_binary_search("anthropic-ai", "cntraveler.com")
+adaptive_binary_search("anthropic-ai", "allure.com")
+adaptive_binary_search("anthropic-ai", "architecturaldigest.com")
+adaptive_binary_search("anthropic-ai", "self.com")
+adaptive_binary_search("anthropic-ai", "bonappetit.com")
+adaptive_binary_search("anthropic-ai", "teenvogue.com")
+adaptive_binary_search("anthropic-ai", "glamourmagazine.com")
+adaptive_binary_search("anthropic-ai", "repubblica.it")
+
+
+# if __name__ == "__main__":
+#     if len(sys.argv) != 3:
+#         print("Usage: python3 utils/crawlerBlockDate.py <bot_name> <url>")
+#         sys.exit(1)
+#     botName = sys.argv[1]
+#     url = sys.argv[2]
+
+#     print(adaptive_binary_search(botName, url))

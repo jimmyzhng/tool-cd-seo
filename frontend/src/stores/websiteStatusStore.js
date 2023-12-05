@@ -47,6 +47,34 @@ export const useWebsiteStatusStore = defineStore({
         sortable: true,
         key: "category",
       },
+            {
+        title: "GPTBot",
+        align: "center",
+        sortable: false,
+        key: "botsStatuses.GPTBot.status",
+        slotName: "GPTBot"
+      },
+      {
+        title: "CCBot",
+        align: "center",
+        sortable: false,
+        key: "botsStatuses.CCBot.status",
+        slotName: "CCBot"
+      },
+      {
+        title: "Anthropic AI",
+        align: "center",
+        sortable: false,
+        key: "botsStatuses.anthropicAi.status",
+        slotName: "anthropicAi"
+      },
+      {
+        title: "Google-Extended",
+        align: "center",
+        sortable: false,
+        key: "botsStatuses.GoogleExtended.status",
+        slotName: "GoogleExtended"
+      },
       {
         title: "MJ12bot",
         align: "center",

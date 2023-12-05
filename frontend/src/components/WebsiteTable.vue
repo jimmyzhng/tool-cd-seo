@@ -69,7 +69,79 @@
               {{ item.isFavorite ? "mdi-heart" : "mdi-heart-outline" }}
             </v-icon>
           </template>
-          <template v-slot:item.botsStatuses.MJ12bot.status="{ item }">
+<template v-slot:item.botsStatuses.GPTBot.status="{ item }">
+  <div v-if="item.botsStatuses.GPTBot && item.botsStatuses.GPTBot.status === 'Blocked'">
+    <span
+      :class="{
+        'blocked-text': item.botsStatuses.GPTBot.status === 'Blocked',
+      }"
+    >
+      {{ item.botsStatuses.GPTBot.status}}
+      <v-tooltip v-if="item.botsStatuses.GPTBot.block_date && moment(item.botsStatuses.GPTBot.block_date.split(' ')[0], 'YYYY-MM-DD').isValid()" activator="parent" location="bottom">
+        Blocked On:
+        {{ formatBlockDate(item.botsStatuses.GPTBot.block_date) }}
+      </v-tooltip>
+    </span>
+  </div>
+  <span v-else>
+    {{ item.botsStatuses.GPTBot ? item.botsStatuses.GPTBot.status : 'Allowed' }}
+  </span>
+</template>
+<template v-slot:item.botsStatuses.CCBot.status="{ item }">
+  <div v-if="item.botsStatuses.CCBot && item.botsStatuses.CCBot.status === 'Blocked'">
+    <span
+      :class="{
+        'blocked-text': item.botsStatuses.CCBot.status === 'Blocked',
+      }"
+    >
+      {{ item.botsStatuses.CCBot.status}}
+      <v-tooltip v-if="item.botsStatuses.CCBot.block_date && moment(item.botsStatuses.CCBot.block_date.split(' ')[0], 'YYYY-MM-DD').isValid()" activator="parent" location="bottom">
+        Blocked On:
+        {{ formatBlockDate(item.botsStatuses.CCBot.block_date) }}
+      </v-tooltip>
+    </span>
+  </div>
+  <span v-else>
+    {{ item.botsStatuses.CCBot ? item.botsStatuses.CCBot.status : 'Allowed' }}
+  </span>
+</template>
+<template v-slot:item.botsStatuses.anthropicAi.status="{ item }">
+  <div v-if="item.botsStatuses.anthropicAi && item.botsStatuses.anthropicAi.status === 'Blocked'">
+    <span
+      :class="{
+        'blocked-text': item.botsStatuses.anthropicAi.status === 'Blocked',
+      }"
+    >
+      {{ item.botsStatuses.anthropicAi.status}}
+      <v-tooltip v-if="item.botsStatuses.anthropicAi.block_date && moment(item.botsStatuses.anthropicAi.block_date.split(' ')[0], 'YYYY-MM-DD').isValid()" activator="parent" location="bottom">
+        Blocked On:
+        {{ formatBlockDate(item.botsStatuses.anthropicAi.block_date) }}
+      </v-tooltip>
+    </span>
+  </div>
+  <span v-else>
+    {{ item.botsStatuses.anthropicAi ? item.botsStatuses.anthropicAi.status : 'Allowed' }}
+  </span>
+</template>
+<template v-slot:item.botsStatuses.GoogleExtended.status="{ item }">
+  <div v-if="item.botsStatuses.GoogleExtended && item.botsStatuses.GoogleExtended.status === 'Blocked'">
+    <span
+      :class="{
+        'blocked-text': item.botsStatuses.GoogleExtended.status === 'Blocked',
+      }"
+    >
+      {{ item.botsStatuses.GoogleExtended.status}}
+      <v-tooltip v-if="item.botsStatuses.GoogleExtended.block_date && moment(item.botsStatuses.GoogleExtended.block_date.split(' ')[0], 'YYYY-MM-DD').isValid()" activator="parent" location="bottom">
+        Blocked On:
+        {{ formatBlockDate(item.botsStatuses.GoogleExtended.block_date) }}
+      </v-tooltip>
+    </span>
+  </div>
+  <span v-else>
+    {{ item.botsStatuses.GoogleExtended ? item.botsStatuses.GoogleExtended.status : 'Allowed' }}
+  </span>
+</template>
+          <!-- <template v-slot:item.botsStatuses.MJ12bot.status="{ item }">
   <div v-if="item.botsStatuses.MJ12bot && item.botsStatuses.MJ12bot.status === 'Blocked'">
     <span
       :class="{
@@ -212,7 +284,7 @@
   <span v-else>
     {{ item.botsStatuses.OnCrawl ? item.botsStatuses.OnCrawl.status : 'Allowed' }}
   </span>
-</template>
+</template> -->
          
          
          

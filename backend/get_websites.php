@@ -64,6 +64,21 @@ try {
     $whereSQL = "WHERE " . implode(" AND ", $conditions);
 
 // query to find most recent check_date WITH COMPLETE DATA for 1000 rows
+// first, count all bots of the given category * 1000 => this indicates a full list
+$botCountQuery = "
+    SELECT COUNT(*) as botCount
+    FROM Bots
+    WHERE category = :bot_category
+";
+
+$stmtBotCount = $pdo->prepare($botCountQuery);
+$stmtBotCount->bindParam(':bot_category', $botCategory, PDO::PARAM_STR);
+$stmtBotCount->execute();
+$botCountResult = $stmtBotCount->fetch();
+$botCount = $botCountResult['botCount'];
+
+$requiredCount = $botCount * 1000;
+
 $lastUpdatedQuery = "
     SELECT check_date as lastUpdated
     FROM (
@@ -71,13 +86,14 @@ $lastUpdatedQuery = "
         FROM WebsiteStatus
         WHERE status IS NOT NULL AND status <> ''
         GROUP BY check_date
-        HAVING cnt >= 4000
+        HAVING cnt >= :required_count
         ORDER BY check_date DESC
     ) t
     LIMIT 1
 ";
 
     $stmtLastUpdated = $pdo->prepare($lastUpdatedQuery);
+    $stmtLastUpdated->bindParam(':required_count', $requiredCount);
     $stmtLastUpdated->execute();
     $lastUpdatedResult = $stmtLastUpdated->fetch();
     $lastUpdated = $lastUpdatedResult['lastUpdated'];

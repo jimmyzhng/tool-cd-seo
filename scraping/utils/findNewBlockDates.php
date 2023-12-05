@@ -6,7 +6,7 @@ require 'db/db-connection.php';
 $stmt = $pdo->query("SELECT * FROM WebsiteStatus WHERE status = 'Blocked' AND block_date IS NULL AND note IS NULL");
 $blockedWebsites = $stmt->fetchAll();
 
-print("Found " . count($blockedWebsites) . " new blocked websites. Finding block dates.." . "\n");
+print("Found " . count($blockedWebsites) . " blocked website rows with no block dates. Finding block dates.." . "\n");
 
 // Prepare SQL statements outside the loop
 $stmtWebsite = $pdo->prepare("SELECT url FROM Websites WHERE id = ?");
